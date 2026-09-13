@@ -1,11 +1,17 @@
 <div align="center">
-  <h1>Flummi's Grate Menu</h1>
+  <h1>Flummi's Bark Menu</h1>
 
-  <a href="https://github.com/Flummidill/Flummis.Grate.Menu/compare/fdc53ff...1.6.3">
-    <img src="https://img.shields.io/badge/view-changelog-lime?style=for-the-badge"</img>
+  A Fun Mod Menu for Gorilla Tag.
+
+  <a href="https://github.com/PixelCattt/Bark-Menu/compare/fdc53ff...1.6.3">
+    <img src="https://img.shields.io/badge/view-changes-lime?style=for-the-badge"</img>
   </a>
-  
-  <a href="https://github.com/Flummidill/Flummis.Grate.Menu/releases">
-    <img src="https://img.shields.io/github/downloads/Flummidill/Flummis.Grate.Menu/v1.6.3/Flummis_Grate_Menu.dll?style=for-the-badge&label=Downloads&color=lime"</img>
+
+  <a href="https://github.com/PixelCattt/Bark-Menu/releases">
+    <img src="https://img.shields.io/github/downloads/PixelCattt/Bark-Menu/total?style=for-the-badge&label=Downloads%20Total&color=lime"</img>
+  </a>
+
+  <a href="https://github.com/PixelCattt/Bark-Menu/releases/tag/v1.6.3">
+    <img src="https://img.shields.io/github/downloads/PixelCattt/Bark-Menu/v1.6.3/Flummis-Bark-Menu.dll?style=for-the-badge&label=Downloads%20v1.6.3&color=lime"</img>
   </a>
 </div>
